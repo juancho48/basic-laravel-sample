@@ -1,0 +1,299 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"bo",
+				"bolder"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"col",
+				"col-sm-12"
+			],
+			[
+				"li",
+				"line-height"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ba",
+				"background-image"
+			],
+			[
+				"text-a",
+				"text-align"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 167.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Blame"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 278.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/auth/login.stub",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/resources/views/welcome.blade.php",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/auth/passwords/reset.stub",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/auth/passwords/email.stub",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/vendor/laravel/framework/src/Illuminate/Auth/Console/stubs/make/views/auth/register.stub",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/vendor/laravel/framework/src/Illuminate/View/Compilers/BladeCompiler.php",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/config/database.php",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/.env",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/resources/views/email.blade.php",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/resources/views/about.blade.php",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/resources/views/layouts/app.blade.php",
+		"/Users/juancho/Documents/Projects/basic-laravel-sample/public/assets/css/main.css",
+		"/Users/juancho/Documents/Projects/html sample resume/sample_resume.html",
+		"/Users/juancho/Documents/Projects/golfweb/routes/web.php",
+		"/Users/juancho/Documents/Projects/golfweb/public/js/main.js",
+		"/Users/juancho/Documents/Refactoring_to_Collections_–_Bare_Essentials/exercises/beginner/4-UsingMapTest.php",
+		"/Users/juancho/Documents/Projects/html sample resume/assets/main.css",
+		"/Users/juancho/Documents/Projects/html sample resume/carousel.css",
+		"/Users/juancho/Documents/Projects/html sample resume/main.css",
+		"/Users/juancho/Documents/sample_code.php",
+		"/Users/juancho/Documents/hidden-field.js",
+		"/Users/juancho/Code/voiceaxis/webapp/config.inc.php.sample",
+		"/Users/juancho/Code/voiceaxis/webapp/application/controllers/report/activity_asterisk.php",
+		"/Users/juancho/Code/voiceaxis/webapp/application/angular/sort-table/sort-table.js",
+		"/Users/juancho/Code/voiceaxis/webapp/application/angular/sort-table/hidden-select.js",
+		"/Users/juancho/Code/voiceaxis/webapp/application/widgets/search/call_activity.html.twig",
+		"/Users/juancho/Code/voiceaxis/webapp/application/angular/sort-table/hidden-select.html",
+		"/Users/juancho/Code/voiceaxis/webapp/application/views/report/activity/activity.html.twig",
+		"/Users/juancho/Code/voiceaxis/webapp/application/angular/widgets/membership/main.html",
+		"/Users/juancho/Code/voiceaxis/webapp/sftp-config.json",
+		"/Users/juancho/Code/voiceaxis/webapp/application/widgets/search/date_range.html.twig",
+		"/Users/juancho/Code/voiceaxis/webapp/application/controllers/report/commission/order.php",
+		"/Users/juancho/Code/voiceaxis/webapp/application/controllers/setting/tax/nexus.php",
+		"/Users/juancho/Code/voiceaxis/webapp/application/services/Angular/AssetsConfig.php",
+		"/Users/juancho/Code/voiceaxis/webapp/application/models/Extension.inc.php",
+		"/Users/juancho/Code/voiceaxis/webapp/application/models/Activity.inc.php",
+		"/Users/juancho/Code/voiceaxis.sublime-project",
+		"/Users/juancho/Code/voiceaxis/sftp-config.json",
+		"/Users/juancho/Code/voiceaxis/webapp/application/controllers/accounting/item/bundle_edit.php",
+		"/Users/juancho/Code/voiceaxis/webapp/application/angular/widgets/membership/membership.js",
+		"/Users/juancho/Code/voiceaxis/webapp/application/services/Angular/Loader.php"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"{!!",
+			"DateTime",
+			"installDate",
+			"narrow",
+			"sm",
+			"xxxxx",
+			"xs",
+			"description",
+			"companies",
+			"></",
+			"footer",
+			"marketing",
+			"<sort-table-hidden-multiselect",
+			"Angular\\Loader::loadDirective(",
+			"sort-table",
+			"Angular\\Loader::loadDirective",
+			"hidden-multiselect",
+			"hidden-select",
+			"page-break-inside"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"{{",
+			"sm"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 344.0
+	},
+	"pinned_build_system": "",
+	"project": "web.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"route",
+				"app/Http/routes.php"
+			],
+			[
+				"extenson",
+				"webapp/application/models/Extension.inc.php"
+			],
+			[
+				"acti",
+				"webapp/application/models/Activity.inc.php"
+			],
+			[
+				"activiy",
+				"webapp/application/controllers/report/activity_asterisk.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"~/Documents/Projects/golfweb.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 317.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

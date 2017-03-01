@@ -1,0 +1,138 @@
+/* Space out content a bit */
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+/* remove UL left a bit */
+ul {  
+  margin-left: -15px;
+}
+
+/* Customize container */
+@media (min-width: 768px) {
+  .container {
+    max-width: 750px;
+  }
+}
+.container > hr {
+  margin: 10px 0;
+}
+
+.header,
+.infoblock,
+.education {
+  padding-right: 10px;
+  padding-left: 10px;
+}
+
+/* Page header */
+.header {
+  padding-bottom: 20px;
+  border-bottom: 1px solid #e5e5e5;
+}
+
+.header h1 {
+  margin-top: 0;
+  margin-bottom: 0;
+  line-height: 40px;
+  font-size: 1.6em;
+  text-align: center;
+}
+
+.header > .subheader {
+  text-align: center;
+  padding: 5px;
+}
+
+/* infoblock content */
+.infoblock {
+  margin: 10px 0;
+}
+.infoblock p + h3 {
+  margin-top: 28px;
+}
+
+/* Company */
+.company {  
+  border: 1px solid #e5e5e5;
+}
+.company > .role {
+  background-color: #666;
+  background-repeat: none; 
+  padding: 10px;
+  border: 1px solid #e5e5e5;
+  text-align: left;
+  color: #FFF;
+}
+
+.company > .role > .p{
+  font-size: 14px;
+}
+
+.company > .info {  
+  padding: 10px 0px;
+  border: 1px solid #e5e5e5;
+  text-align: left;
+}
+
+.company > .info > ul > li{  
+  font-size: 12px;
+  line-height: 18px;
+  padding-bottom: 5px; 
+}
+
+/* Education */
+.education {
+  padding-top: 19px;
+  color: #777;
+  border-top: 1px solid #e5e5e5;
+}
+
+.social {
+  color: #333;
+}
+
+.achievement {
+  color: #333;
+  font-weight: bolder;
+  padding-top: 15px;
+}
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+  /* Remove the padding we set earlier */
+  .header,
+  .infoblock,
+  .footer {
+    padding-right: 0;
+    padding-left: 0;
+  }
+
+  /* Space out the masthead */
+  .header {
+    margin-bottom: 30px;
+  }
+
+  .company > .role {
+    height: 200px;
+  }
+
+  .company > .info {
+    height: 200px;
+  }
+
+  .company > .info > ul > li{  
+    font-size: 14px;
+    line-height: 18px;
+    padding-bottom: 5px; 
+  }
+
+  .header > .subheader > a {
+    text-align: center;
+    padding: 0 35px;
+  }
+
+  .achievement {
+    padding-top: 0px;
+  }
+}
